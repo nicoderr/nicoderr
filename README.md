@@ -31,6 +31,7 @@ I build with React/Node + Python backends, searchable data (Elasticsearch), and 
 ![Python](https://img.shields.io/badge/-Python-000?logo=python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?logo=fastapi)
 ![Flask](https://img.shields.io/badge/-Flask-000?logo=flask)
+![Java](https://img.shields.io/badge/-Java-000?logo=java)
 
 <!-- Data -->
 ![MySQL](https://img.shields.io/badge/-MySQL-000?logo=mysql)
@@ -53,5 +54,9 @@ I build with React/Node + Python backends, searchable data (Elasticsearch), and 
 ![Git](https://img.shields.io/badge/-Git-000?logo=git)
 ![Bash](https://img.shields.io/badge/-Bash-000?logo=gnubash)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-000?logo=powershell)
-![Jenkins](https://img.shields.io/badge/-Jenkins-000?logo=jenkins)
 ![Jira](https://img.shields.io/badge/-Jira-000?logo=jira)
+
+<!-- Tools -->
+![Git](https://img.shields.io/badge/-Git-000?logo=git)
+![Postman](https://img.shields.io/badge/-Postman-000?logo=postman)
+![VS%20Code](https://img.shields.io/badge/-VS%20Code-000?logo=visualstudiocode)
