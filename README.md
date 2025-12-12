@@ -46,7 +46,6 @@ I build with React/Node + Python backends, searchable data (Elasticsearch), and 
 
   <!-- Search & Streaming -->
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=fff" />
   <br/>
 
   <!-- AI/ML -->
@@ -60,8 +59,6 @@ I build with React/Node + Python backends, searchable data (Elasticsearch), and 
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=fff" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=fff" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=fff" />
   <br/>
 
   <!-- Tools -->
