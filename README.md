@@ -1,6 +1,6 @@
-# Hey, I’m Nitesha 👋
+# Hey, I’m 👋
 
-**Software Engineer × Full-Stack Dev** — I turn ideas into shipped, user-facing products.  
+**A Software Engineer × Full-Stack Dev** — I turn ideas into shipped, user-facing products.  
 I build with React/Node + Python backends, searchable data (Elasticsearch), and ML-powered features.
 
 - 🎓 Recently graduated: **M.S. in Computer Science (’25), Illinois Institute of Technology**
@@ -8,11 +8,8 @@ I build with React/Node + Python backends, searchable data (Elasticsearch), and 
 - 📍 Chicago, IL
 - 🧭 Recent builds: AI customer-service bot (vision + intent), blog platform with real-time search & alerts, geolocation activity recommender with Google Maps
 - ⚙️ Stack I reach for: **React, Node/Express, Python/FastAPI, PostgreSQL, Elasticsearch, Tailwind, AWS/GCP**
-- 🔭 Currently exploring: LLM tooling, vector search, and clean UI patterns
+- 🔭 Currently exploring: LLM tooling and clean UI patterns
 - 🤝 Open to collab on dev tools, search, and AI-first apps
-
-**Find me**  
-[Portfolio](https://your-portfolio.link) • [LinkedIn](https://linkedin.com/in/your-handle) • [Email](mailto:you@example.com)
 
 ---
 
