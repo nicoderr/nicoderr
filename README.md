@@ -11,6 +11,9 @@ I build with React/Node + Python backends, searchable data (Elasticsearch), and 
 - 🔭 Currently exploring: LLM tooling and clean UI patterns
 - 🤝 Open to collab on dev tools, search, and AI-first apps
 
+  Reach out to me at: nitesha.p@mymailkeeper.com
+  Portfolio: https://nitesha.netlify.app/
+  
 ---
 
 ## Tech
