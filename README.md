@@ -5,9 +5,8 @@
 I build scalable, user-focused applications powered by modern web technologies, search systems, and AI integrations. My work focuses on creating fast, reliable, and production-ready experiences across frontend, backend, and cloud infrastructure.
 
 - 📍 Chicago, IL  
-- 💼 Around 4 years of experience across backend engineering, full-stack development, cloud systems, and data-driven applications
-- 🟢 Software Engineer at Capital One Financial — Building scalable backend systems, REST APIs, ETL pipelines, AI integrations, and cloud-native applications using Django, FastAPI, Spring Boot, AWS, and GraphQL
-- 🟢 Software Engineer at TopHat Software Technologies — Developed full-stack and microservices-based applications with Flask, Spring REST, Kafka, RabbitMQ, Azure, MongoDB, and secure authentication systems
+- 💼 Around 1 year of experience across backend engineering, full-stack development, cloud systems, and data-driven applications
+- 🟢 Software Engineer at Gabriel AI — Building scalable backend systems, REST APIs, ETL pipelines, AI integrations, and cloud-native applications using Django, FastAPI, AWS, and GraphQL
 - 🎓 M.S. in Computer Science ('25), Illinois Institute of Technology  
 - 🎓 B.E. in Computer Engineering ('22), University of Pune
 - ⚡ Experienced in Django, FastAPI, Flask, Spring Boot, React.js, Node.js, GraphQL, and microservices architectures  
